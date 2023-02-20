@@ -9,7 +9,7 @@ export const Sedans = () => {
           Choose a sedan for its affordability and excellent fuel economy. Ideal
           for cruising in the city or on your next road trip.
         </p>
-        <button className="h-[48px] w-[147px] bg-[#fff] rounded-full mt-[28px] lg:mt-[86px] text-[#e28525] hover:border-2 hover:border-white hover:bg-[#e28525] hover:text-white ">
+        <button className="h-[48px] w-[147px] bg-[#fff] rounded-full mt-[28px] lg:mt-[66px] text-[#e28525] hover:border-2 hover:border-white hover:bg-[#e28525] hover:text-white ">
           Learn More
         </button>
       </div>
